@@ -4,7 +4,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .main{
-    background-image: "../images/bg.jpg"
+    background-image: /images/bg.jpg
     min-height:100vh;
     background-position:center;
     background-size: max(1500px,100vw);
